@@ -16,7 +16,7 @@ body {
 }
 
 span {
-    color: chartreuse;
+    color: rgb(84, 90, 78);
     font-weight: bold;
     font-size: 170px;
     cursor: context-menu;
